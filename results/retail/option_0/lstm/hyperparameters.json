@@ -1,0 +1,6 @@
+{
+  "n_layers": 1,
+  "lstm_units": 96,
+  "dropout": 0.48663205561133127,
+  "learning_rate": 0.001638319029173791
+}

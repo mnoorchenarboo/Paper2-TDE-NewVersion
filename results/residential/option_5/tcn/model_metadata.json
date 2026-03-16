@@ -1,0 +1,14 @@
+{
+  "model_type": "TCN",
+  "primary_use": "residential",
+  "option_number": 5,
+  "n_parameters": 27544,
+  "seq_length": 48,
+  "n_features": 10,
+  "prediction_horizon": 24,
+  "training_config": {
+    "epochs": 5,
+    "final_epochs": 10,
+    "batch_size": 64
+  }
+}

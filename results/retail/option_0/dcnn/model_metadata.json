@@ -1,0 +1,14 @@
+{
+  "model_type": "DCNN",
+  "primary_use": "retail",
+  "option_number": 0,
+  "n_parameters": 68184,
+  "seq_length": 48,
+  "n_features": 11,
+  "prediction_horizon": 24,
+  "training_config": {
+    "epochs": 5,
+    "final_epochs": 10,
+    "batch_size": 64
+  }
+}

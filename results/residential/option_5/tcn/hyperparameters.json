@@ -1,0 +1,7 @@
+{
+  "n_filters": 32,
+  "kernel_size": 7,
+  "n_layers": 4,
+  "dropout": 0.19898308540459703,
+  "learning_rate": 0.0009291614051109176
+}

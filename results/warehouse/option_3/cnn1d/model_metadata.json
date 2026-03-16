@@ -1,0 +1,14 @@
+{
+  "model_type": "CNN1D",
+  "primary_use": "warehouse",
+  "option_number": 3,
+  "n_parameters": 364248,
+  "seq_length": 48,
+  "n_features": 11,
+  "prediction_horizon": 24,
+  "training_config": {
+    "epochs": 5,
+    "final_epochs": 10,
+    "batch_size": 64
+  }
+}

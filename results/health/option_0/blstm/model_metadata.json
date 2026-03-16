@@ -1,0 +1,14 @@
+{
+  "model_type": "BLSTM",
+  "primary_use": "health",
+  "option_number": 0,
+  "n_parameters": 141848,
+  "seq_length": 48,
+  "n_features": 11,
+  "prediction_horizon": 24,
+  "training_config": {
+    "epochs": 5,
+    "final_epochs": 10,
+    "batch_size": 64
+  }
+}
